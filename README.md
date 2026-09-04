@@ -1,6 +1,8 @@
 # TaxiGP
 
-TaxiGP es una aplicación para preparar e imprimir facturas simplificadas de taxi desde un teléfono Android mediante una impresora térmica Bluetooth.
+**TaxiGP está diseñada para los taxis del Área Metropolitana de Barcelona y es compatible únicamente con teléfonos Android.**
+
+TaxiGP permite preparar e imprimir facturas simplificadas de taxi mediante una impresora térmica Bluetooth.
 
 ## Descargar
 
@@ -8,7 +10,8 @@ Descarga la APK desde el apartado **Releases** de esta página. En cada publicac
 
 ## Antes de instalar
 
-- TaxiGP está preparada para teléfonos Android.
+- TaxiGP está preparada únicamente para teléfonos Android.
+- Está diseñada específicamente para taxis del Área Metropolitana de Barcelona.
 - Para imprimir necesita la aplicación RAWBT y una impresora térmica Bluetooth compatible.
 - El manual explica la instalación, la conexión y los ajustes recomendados.
 - Android puede pedir permiso para instalar aplicaciones descargadas fuera de Google Play.
